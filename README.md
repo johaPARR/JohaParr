@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Johana Parrello (johaPARR)
 
-<!--
-**johaPARR/JohaParr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a bilingual remote customer service and support professional with experience using tools like Zendesk, HubSpot, Excel, Trello, Google Sheets, Google Forms, CorelDRAW, and Shopify.
 
-Here are some ideas to get you started:
+💡 Currently studying programming at Coderhouse and learning web development (HTML, CSS, JavaScript, REACT), as well as SQL and Python, plus version control with Git and GitHub to expand my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Skills & Tools:
+- Customer service & remote support  
+- Zendesk, HubSpot  
+- Data management & reporting (Excel, Google Sheets, Google Forms)  
+- Project management (Trello)  
+- Graphic design (CorelDRAW)  
+- E-commerce platform (Shopify)  
+- Programming languages in progress: HTML, CSS, JavaScript, SQL, Python  
+- Git & GitHub (in progress)
+
+---
+
+### 📁 Sample Projects:
+Here are some of my practice projects as I learn:
+
+- *(More projects coming soon!)*
+
+---
+
+### 📫 Let's connect:
+- [LinkedIn](https://www.linkedin.com/in/johana-aylen-parrello-85010a110/)  
+- Email: aylala30@gmail.com  
+- GitHub: [github.com/johaPARR](https://github.com/johaPARR)
