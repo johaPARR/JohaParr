@@ -83,9 +83,10 @@ Backend Development
   
 ## 📫 Contact
 
-- 💼 Upwork: https://www.upwork.com/freelancers/~0112b1d064b29af41b
-- 🧳Fiverr: https://www.fiverr.com/johaparrello/buying?source=avatar_menu_profile
-- 🔗 LinkedIn: https://www.linkedin.com/in/johana-ayl%C3%A9n-parrello-85010a110/
+## 📬 Contact
 
+- **Upwork:** [Perfil Oficial Upwork](https://www.upwork.com/freelancers/~0112b1d064b29af41b)
+- **Fiverr:** [Perfil Oficial Fiverr](https://www.fiverr.com/johaparrello/buying?source=avatar_menu_profile)
+- **LinkedIn:** [Perfil Profesional LinkedIn](https://www.linkedin.com/in/johana-ayl%C3%A9n-parrello-85010a110/)
 
 
