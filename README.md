@@ -39,6 +39,14 @@ REST API for event management and ticket registration. Layered architecture (rou
 
 ---
 
+**🔹 Backend I: Araperful E-commerce API**
+
+Perfume e-commerce backend built with Node.js, Express, and MongoDB. Includes real-time features with Socket.io, Handlebars views, Docker, and GitHub Actions CI.
+
+👉 [View repository](https://github.com/johaPARR/ecommerce-backend)
+
+---
+
 **🔹 React E-commerce: Shopping Cart**
 
 React-based e-commerce SPA featuring product browsing, product details, shopping cart management, and checkout. Uses Context API for global state management, React Router for navigation, and Firebase/Firestore for cloud data persistence.
