@@ -34,7 +34,7 @@ REST API for event management and ticket registration. Layered architecture (rou
 
 ### 🔹 Backend I: Araperful E-commerce API
 Perfume e-commerce backend with Node.js, Express, Mongoose, real-time updates with Socket.io and Handlebars views. Dockerized with a GitHub Actions CI pipeline.
-👉 [View repository]
+👉 [https://github.com/johaPARR/ecommerce-backend.git]
 
 ## 💼 What I can help with
 
