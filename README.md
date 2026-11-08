@@ -1,31 +1,57 @@
 # 👋 Hi, I'm Johana Parrello (johaPARR)
+Developer focused on Backend Development, DevOps, API Integration, Artificial Intelligence Integration, and Workflow Automation.
 
-I am a bilingual remote customer service and support professional with experience using tools like Zendesk, HubSpot, Excel, Trello, Google Sheets, Google Forms, CorelDRAW, and Shopify.
+I build backend solutions using JavaScript, Node.js, and Express, integrating REST APIs, databases, and third-party services. I also work with DevOps tools and technologies for containerization, continuous integration, application monitoring, and deployment.
 
-💡 Currently studying programming at Coderhouse and learning web development (HTML, CSS, JavaScript, REACT), as well as SQL and Python, plus version control with Git and GitHub to expand my technical skills.
+I am interested in integrating artificial intelligence into systems and applications through APIs such as OpenAI and Claude, building solutions for data processing, task optimization, and service integration.
+
+**Areas of focus:**
+- Backend Development: Node.js, Express, and REST APIs.
+- API Integration: third-party services and webhooks.
+- AI Integration: OpenAI, Claude, chatbots, RAG, and AI agents.
+- Workflow Automation: n8n, Make, and Zapier.
+- DevOps: Docker, Docker Compose, GitHub Actions, CI/CD, Kubernetes, and Terraform.
+- Monitoring & Observability: Prometheus and Grafana.
+- Databases: MongoDB and PostgreSQL.
+- Testing, maintenance, and application optimization.
+
+My goal is to build efficient, automated, scalable backend solutions ready for production environments.
+
+📍 Córdoba, Argentina · 🌎 Remote · 🗣️ Spanish (native) · English (B2)
+
+---
+
+## 📁 Featured Projects
+
+### 🔹 Smart Inquiry Triage API *(in progress)*
+Node.js backend that receives customer inquiries through webhooks, classifies them with AI (category, urgency, summary, suggested reply), stores them in MongoDB and automates notifications with n8n. Runs with Docker.
+👉 [View repository](https://github.com/johaPARR/smart-inquiry-triage)
+
+### 🔹 Backend II: Events Platform API (DevOps)
+REST API for event management and ticket registration. Layered architecture (routes, controllers, services, repositories, DAOs, DTOs), JWT authentication with Passport.js, role-based authorization (user / organizer / admin), seat control and email notifications with Nodemailer. Tested with Jest and Supertest.
+👉 [View repository](https://github.com/johaPARR/PreEntrega-1-Backend2)
+---
+
+### 🔹 Backend I: Araperful E-commerce API
+Perfume e-commerce backend with Node.js, Express, Mongoose, real-time updates with Socket.io and Handlebars views. Dockerized with a GitHub Actions CI pipeline.
+👉 [View repository]
+
+## 💼 What I can help with
+
+- Connecting systems through REST APIs and webhooks
+- Building automated workflows with n8n
+- Adding AI (OpenAI) to existing processes
+- Dockerizing and documenting backend projects
+
+---
+
+## 📫 Contact
+
+- 💼 Upwork: https://www.upwork.com/freelancers/~0112b1d064b29af41b
+- 🧳Fiverr: https://www.fiverr.com/johaparrello/buying?source=avatar_menu_profile
+- 🔗 LinkedIn: https://www.linkedin.com/in/johana-ayl%C3%A9n-parrello-85010a110/
 
 ---
 
 ### 🧰 Skills & Tools:
-- Customer service & remote support  
-- Zendesk, HubSpot  
-- Data management & reporting (Excel, Google Sheets, Google Forms)  
-- Project management (Trello)  
-- Graphic design (CorelDRAW)  
-- E-commerce platform (Shopify)  
-- Programming languages in progress: HTML, CSS, JavaScript, SQL, Python  
-- Git & GitHub (in progress)
 
----
-
-### 📁 Sample Projects:
-Here are some of my practice projects as I learn:
-
-- *(More projects coming soon!)*
-
----
-
-### 📫 Let's connect:
-- [LinkedIn](https://www.linkedin.com/in/johana-aylen-parrello-85010a110/)  
-- Email: aylala30@gmail.com  
-- GitHub: [github.com/johaPARR](https://github.com/johaPARR)
