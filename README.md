@@ -39,11 +39,28 @@ REST API for event management and ticket registration. Layered architecture (rou
 
 ---
 
-**🔹 Backend I: Araperful E-commerce API**
+**🔹 React E-commerce: Shopping Cart**
 
-Perfume e-commerce backend with Node.js, Express, Mongoose, real-time updates with Socket.io and Handlebars views. Dockerized with a GitHub Actions CI pipeline.
+React-based e-commerce SPA featuring product browsing, product details, shopping cart management, and checkout. Uses Context API for global state management, React Router for navigation, and Firebase/Firestore for cloud data persistence.
 
-👉 [View repository](https://github.com/johaPARR/ecommerce-backend)
+👉 [View repository](https://github.com/johaPARR/ProyectoFinalReact-Parrello)
+
+---
+
+**🔹 Araperful: Web Development Project**
+
+Multi-page website developed for Araperful, a perfume brand. Includes portfolio, services, customers, and contact sections, with responsive navigation, animations, and a customized visual design. Built with HTML, CSS, JavaScript, and Bootstrap.
+
+👉 [View repository](https://github.com/johaPARR/Coderhouse-Fullstack-PreEntrega-3)
+
+---
+
+**🔹 AutoFlow: Automotive Workflow Integration**
+
+Real-world application developed for ElectroCar to manage vehicle evidence and diagnostic reports. Includes license plate validation, role-based interfaces, image compression, photo uploads, and PDF diagnostic submissions through n8n webhook integrations. Built with React, TypeScript, Axios, and Chakra UI.
+
+👉 [View repository](https://github.com/johaPARR/AutoFlow)
+
 
 ## 💼 What I can help with
 
