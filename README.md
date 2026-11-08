@@ -45,13 +45,33 @@ Perfume e-commerce backend with Node.js, Express, Mongoose, real-time updates wi
 
 ---
 
+🧰 Skills & Tools
+Backend Development
+- JavaScript · Node.js · Express.js
+- REST APIs · Webhooks
+- MongoDB · PostgreSQL
+AI Integration
+- OpenAI API · Claude API
+- AI Agents · RAG · LLM Integration
+Workflow Automation
+
+- n8n · Make · Zapier
+
+DevOps & Infrastructure
+- Docker · Docker Compose
+- Git · GitHub · GitHub Actions
+- Render · Prometheus · Grafana
+- Kubernetes · Terraform (cuando completes la práctica)
+Testing & Development
+- Jest · Postman
+- API Testing · Debugging
+
+  
 ## 📫 Contact
 
 - 💼 Upwork: https://www.upwork.com/freelancers/~0112b1d064b29af41b
 - 🧳Fiverr: https://www.fiverr.com/johaparrello/buying?source=avatar_menu_profile
 - 🔗 LinkedIn: https://www.linkedin.com/in/johana-ayl%C3%A9n-parrello-85010a110/
 
----
 
-### 🧰 Skills & Tools:
 
