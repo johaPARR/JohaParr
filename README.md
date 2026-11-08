@@ -23,7 +23,7 @@ My goal is to build efficient, automated, scalable backend solutions ready for p
 
 ## 📁 Featured Projects
 
-### 🔹 Smart Inquiry Triage API *(in progress)*
+** 🔹 Smart Inquiry Triage API *(in progress)**
 Node.js backend that receives structured data through webhooks, classifies and extracts information using AI, stores results in MongoDB, and triggers automated workflows with n8n. Runs with Docker.
 👉 [View repository](https://github.com/johaPARR/smart-inquiry-triage)
 
@@ -32,7 +32,7 @@ REST API for event management and ticket registration. Layered architecture (rou
 👉 [View repository](https://github.com/johaPARR/PreEntrega-1-Backend2)
 ---
 
-### 🔹 Backend I: Araperful E-commerce API
+*** 🔹 Backend I: Araperful E-commerce API**
 Perfume e-commerce backend with Node.js, Express, Mongoose, real-time updates with Socket.io and Handlebars views. Dockerized with a GitHub Actions CI pipeline.
 👉 [https://github.com/johaPARR/ecommerce-backend.git]
 
