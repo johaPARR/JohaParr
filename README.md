@@ -69,6 +69,8 @@ Real-world application developed for ElectroCar to manage vehicle evidence and d
 
 👉 [View repository](https://github.com/johaPARR/AutoFlow)
 
+---
+
 
 ## 💼 What I can help with
 
