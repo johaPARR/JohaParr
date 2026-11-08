@@ -24,7 +24,7 @@ My goal is to build efficient, automated, scalable backend solutions ready for p
 ## 📁 Featured Projects
 
 ### 🔹 Smart Inquiry Triage API *(in progress)*
-Node.js backend that receives customer inquiries through webhooks, classifies them with AI (category, urgency, summary, suggested reply), stores them in MongoDB and automates notifications with n8n. Runs with Docker.
+Node.js backend that receives structured data through webhooks, classifies and extracts information using AI, stores results in MongoDB, and triggers automated workflows with n8n. Runs with Docker.
 👉 [View repository](https://github.com/johaPARR/smart-inquiry-triage)
 
 ### 🔹 Backend II: Events Platform API (DevOps)
