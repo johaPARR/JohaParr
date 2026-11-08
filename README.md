@@ -50,19 +50,24 @@ Backend Development
 - JavaScript · Node.js · Express.js
 - REST APIs · Webhooks
 - MongoDB · PostgreSQL
-AI Integration
+
+  
+⛓️ AI Integration
 - OpenAI API · Claude API
 - AI Agents · RAG · LLM Integration
-Workflow Automation
 
+  
+🛜 Workflow Automation:
 - n8n · Make · Zapier
 
-DevOps & Infrastructure
+
+❄️ DevOps & Infrastructure:
 - Docker · Docker Compose
 - Git · GitHub · GitHub Actions
 - Render · Prometheus · Grafana
 - Kubernetes · Terraform (cuando completes la práctica)
-Testing & Development
+  
+💹 Testing & Development
 - Jest · Postman
 - API Testing · Debugging
 
