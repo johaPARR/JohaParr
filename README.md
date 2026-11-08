@@ -53,40 +53,35 @@ Perfume e-commerce backend with Node.js, Express, Mongoose, real-time updates wi
 - Dockerizing and documenting backend projects
 
 ---
+## 🧰 Skills & Tools
 
-🧰 Skills & Tools:
-Backend Development
+❄️**Backend Development**
 - JavaScript · Node.js · Express.js
 - REST APIs · Webhooks
 - MongoDB · PostgreSQL
 
-  
-⛓️ AI Integration:
+⛓️**AI Integration**
 - OpenAI API · Claude API
 - AI Agents · RAG · LLM Integration
 
-  
-🛜 Workflow Automation:
+🛜**Workflow Automation**
 - n8n · Make · Zapier
 
-
-❄️ DevOps & Infrastructure:
+🌐**DevOps & Infrastructure**
 - Docker · Docker Compose
 - Git · GitHub · GitHub Actions
 - Render · Prometheus · Grafana
-- Kubernetes · Terraform (cuando completes la práctica)
-  
-💹 Testing & Development:
+- Kubernetes · Terraform *(currently learning)*
+
+💹**Testing & Development**
 - Jest · Postman
 - API Testing · Debugging
 
-  
-## 📫 Contact
 
 ## 📬 Contact
 
-- **Upwork:** [Perfil Oficial Upwork](https://www.upwork.com/freelancers/~0112b1d064b29af41b)
-- **Fiverr:** [Perfil Oficial Fiverr](https://www.fiverr.com/johaparrello/buying?source=avatar_menu_profile)
-- **LinkedIn:** [Perfil Profesional LinkedIn](https://www.linkedin.com/in/johana-ayl%C3%A9n-parrello-85010a110/)
+-🌐 **Upwork:** [Perfil Oficial Upwork](https://www.upwork.com/freelancers/~0112b1d064b29af41b)
+- 🧳**Fiverr:** [Perfil Oficial Fiverr](https://www.fiverr.com/johaparrello/buying?source=avatar_menu_profile)
+- 🛜**LinkedIn:** [Perfil Profesional LinkedIn](https://www.linkedin.com/in/johana-ayl%C3%A9n-parrello-85010a110/)
 
 
