@@ -45,14 +45,14 @@ Perfume e-commerce backend with Node.js, Express, Mongoose, real-time updates wi
 
 ---
 
-🧰 Skills & Tools
+🧰 Skills & Tools:
 Backend Development
 - JavaScript · Node.js · Express.js
 - REST APIs · Webhooks
 - MongoDB · PostgreSQL
 
   
-⛓️ AI Integration
+⛓️ AI Integration:
 - OpenAI API · Claude API
 - AI Agents · RAG · LLM Integration
 
@@ -67,7 +67,7 @@ Backend Development
 - Render · Prometheus · Grafana
 - Kubernetes · Terraform (cuando completes la práctica)
   
-💹 Testing & Development
+💹 Testing & Development:
 - Jest · Postman
 - API Testing · Debugging
 
