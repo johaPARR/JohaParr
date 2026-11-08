@@ -65,7 +65,7 @@ Multi-page website developed for Araperful, a perfume brand. Includes portfolio,
 
 **🔹 AutoFlow: Automotive Workflow Integration**
 
-Real-world application developed for ElectroCar to manage vehicle evidence and diagnostic reports. Includes license plate validation, role-based interfaces, image compression, photo uploads, and PDF diagnostic submissions through n8n webhook integrations. Built with React, TypeScript, Axios, and Chakra UI.
+Real-world application developed for ElectroCar to manage vehicle evidence and diagnostic reports. Includes license plate validation through an n8n webhook, role-based interfaces, image compression, and interfaces for photo and PDF submissions. Built with React, TypeScript, Axios, and Chakra UI.
 
 👉 [View repository](https://github.com/johaPARR/AutoFlow)
 
@@ -108,7 +108,7 @@ Real-world application developed for ElectroCar to manage vehicle evidence and d
 ## 📬 Contact
 
 - **Upwork:** [Perfil Oficial Upwork](https://www.upwork.com/freelancers/~0112b1d064b29af41b)
-- **Fiverr:** [Perfil Oficial Fiverr](https://www.fiverr.com/johaparrello/buying?source=avatar_menu_profile)
+- **Fiverr:** [Perfil Oficial Fiverr](https://www.fiverr.com/johaparrello)
 - **LinkedIn:** [Perfil Profesional LinkedIn](https://www.linkedin.com/in/johana-ayl%C3%A9n-parrello-85010a110/)
 
 
