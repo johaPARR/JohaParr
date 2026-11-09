@@ -109,6 +109,6 @@ Real-world application developed for ElectroCar to manage vehicle evidence and d
 
 - **Upwork:** [Perfil Oficial Upwork](https://www.upwork.com/freelancers/~0112b1d064b29af41b)
 - **Fiverr:** [Perfil Oficial Fiverr](https://www.fiverr.com/johaparrello)
-- **LinkedIn:** [Perfil Profesional LinkedIn](https://www.linkedin.com/in/johana-ayl%C3%A9n-parrello-85010a110/)
+  
 
 
