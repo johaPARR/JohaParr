@@ -23,6 +23,14 @@ My goal is to build efficient, automated, scalable backend solutions ready for p
 
 ## 📁 Featured Projects
 
+🔹 **StockFlow API**
+
+REST API for inventory management and ecommerce integration built with Python, FastAPI and PostgreSQL. Product catalog, stock movement history, and a confirmed-order webhook with atomic transactions and idempotency. Includes Alembic migrations, 30 automated tests with Pytest, Docker Compose, and a GitHub Actions CI workflow.
+
+👉 [View repository](https://github.com/johaPARR/stockflow-inventory-api)
+
+---
+
 **🔹 Smart Inquiry Triage API** *(in progress)*
 
 Node.js backend that receives structured data through webhooks, classifies and extracts information using AI, stores results in MongoDB, and triggers automated workflows with n8n. Runs with Docker.
