@@ -39,6 +39,14 @@ Node.js backend that receives structured data through webhooks, classifies and e
 
 ---
 
+**🔹 AutoFlow: Automotive Workflow Integration**
+
+Real-world application developed for ElectroCar to manage vehicle evidence and diagnostic reports. Includes license plate validation through an n8n webhook, role-based interfaces, image compression, and interfaces for photo and PDF submissions. Built with React, TypeScript, Axios, and Chakra UI.
+
+👉 [View repository](https://github.com/johaPARR/AutoFlow)
+
+---
+
 **🔹 Backend II: Events Platform API (DevOps)**
 
 REST API for event management and ticket registration. Layered architecture (routes, controllers, services, repositories, DAOs, DTOs), JWT authentication with Passport.js, role-based authorization (user / organizer / admin), seat control and email notifications with Nodemailer. Tested with Jest and Supertest.
@@ -79,13 +87,6 @@ Multi-page website developed for Araperful, a perfume brand. Includes portfolio,
 
 ---
 
-**🔹 AutoFlow: Automotive Workflow Integration**
-
-Real-world application developed for ElectroCar to manage vehicle evidence and diagnostic reports. Includes license plate validation through an n8n webhook, role-based interfaces, image compression, and interfaces for photo and PDF submissions. Built with React, TypeScript, Axios, and Chakra UI.
-
-👉 [View repository](https://github.com/johaPARR/AutoFlow)
-
----
 
 
 ## 💼 What I can help with
