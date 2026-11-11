@@ -63,6 +63,14 @@ React-based e-commerce SPA featuring product browsing, product details, shopping
 
 ---
 
+🔹 **JavaScript: Interactive E-commerce Simulator**
+
+Interactive e-commerce simulator for Araperful, developed with JavaScript (ES6+). Loads products from a JSON file using Fetch API and supports cart management, quantity updates, dynamic total calculations, LocalStorage persistence, payment method selection, cash discounts, and a simulated checkout flow. Uses SweetAlert2, Toastify JS, and Luxon.
+
+👉 [View repository](https://github.com/johaPARR/ProyectoFinalParrello)
+
+---
+
 **🔹 Araperful: Web Development Project**
 
 Multi-page website developed for Araperful, a perfume brand. Includes portfolio, services, customers, and contact sections, with responsive navigation, animations, and a customized visual design. Built with HTML, CSS, JavaScript, and Bootstrap.
