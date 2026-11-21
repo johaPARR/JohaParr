@@ -105,4 +105,5 @@ Multi-page website developed for Araperful, a perfume brand. Includes portfolio,
 
 ## 📬 Contact
 
+- **Portfolio:** [Johana Parrello](https://johaparrello.wordpress.com/)
 - **LinkedIn:** [Johana Parrello](https://www.linkedin.com/in/johana-ayl%C3%A9n-parrello-85010a110/)
