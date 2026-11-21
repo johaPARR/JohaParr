@@ -1,61 +1,49 @@
 # 👋 Hi, I'm Johana Parrello (johaPARR)
-Developer focused on Backend Development, DevOps, API Integration, Artificial Intelligence Integration, and Workflow Automation.
 
-I build backend solutions using JavaScript, Node.js, and Express, integrating REST APIs, databases, and third-party services. I also work with DevOps tools and technologies for containerization, continuous integration, application monitoring, and deployment.
+**Full Stack Developer | Backend Specialist | DevOps**
 
-I am interested in integrating artificial intelligence into systems and applications through APIs such as OpenAI and Claude, building solutions for data processing, task optimization, and service integration.
+I'm a Full Stack Developer with a professional focus exclusively on **Backend Development and DevOps**. My Full Stack background gives me a broad understanding of application architecture, while my specialization and career direction are centered on backend systems, REST APIs, databases, automated testing, and reliable infrastructure.
 
-**Areas of focus:**
-- Backend Development: Node.js, Express, and REST APIs.
-- API Integration: third-party services and webhooks.
-- AI Integration: OpenAI, Claude, chatbots, RAG, and AI agents.
-- Workflow Automation: n8n, Make, and Zapier.
-- DevOps: Docker, Docker Compose, GitHub Actions, CI/CD, Kubernetes, and Terraform.
-- Monitoring & Observability: Prometheus and Grafana.
-- Databases: MongoDB and PostgreSQL.
-- Testing, maintenance, and application optimization.
+I work with **Python, FastAPI, JavaScript, Node.js, and Express**, building structured backend solutions with **PostgreSQL and MongoDB**. I also work with Docker, CI/CD, application deployment, and monitoring with Prometheus and Grafana.
 
-My goal is to build efficient, automated, scalable backend solutions ready for production environments.
+My professional focus is Backend Development and DevOps; I do not offer frontend development services.
 
 📍 Córdoba, Argentina · 🌎 Remote · 🗣️ Spanish (native) · English (B2)
 
 ---
 
-## 📁 Featured Projects
+## 🧭 Areas of Focus
 
-🔹 **StockFlow API**
+- **Backend Development:** Python, FastAPI, Node.js, Express, JavaScript, REST APIs, server-side logic, and API design.
+- **Databases:** PostgreSQL, MongoDB, SQLAlchemy, Mongoose, Alembic, data modeling, and database integration.
+- **API Integrations:** REST APIs, webhooks, authentication, and communication between backend systems and external services.
+- **Testing & Quality:** Pytest, Jest, Supertest, API testing, debugging, and application validation.
+- **DevOps & Infrastructure:** Docker, Docker Compose, GitHub Actions, CI/CD, deployment, Prometheus, and Grafana.
+- **Infrastructure as Code & Orchestration:** Kubernetes and Terraform (currently expanding practical experience).
 
-REST API for inventory management and ecommerce integration built with Python, FastAPI and PostgreSQL. Product catalog, stock movement history, and a confirmed-order webhook with atomic transactions and idempotency. Includes Alembic migrations, 30 automated tests with Pytest, Docker Compose, and a GitHub Actions CI workflow.
+---
+
+## 📁 Featured Backend & DevOps Projects
+
+### 🔹 StockFlow API
+
+REST API for inventory management and ecommerce integration built with Python, FastAPI, and PostgreSQL. Includes product catalog management, stock movement history, and a confirmed-order webhook with atomic transactions and idempotency. Uses Alembic migrations, 30 automated tests with Pytest, Docker Compose, and a GitHub Actions CI workflow.
 
 👉 [View repository](https://github.com/johaPARR/stockflow-inventory-api)
 
----
+### 🔹 Backend II – Events Platform API (DevOps)
 
-**🔹 Smart Inquiry Triage API** *(in progress)*
-
-Node.js backend that receives structured data through webhooks, classifies and extracts information using AI, stores results in MongoDB, and triggers automated workflows with n8n. Runs with Docker.
-
-👉 [View repository](https://github.com/johaPARR/smart-inquiry-triage)
-
----
-
-**🔹 AutoFlow: Automotive Workflow Integration**
-
-Real-world application developed for ElectroCar to manage vehicle evidence and diagnostic reports. Includes license plate validation through an n8n webhook, role-based interfaces, image compression, and interfaces for photo and PDF submissions. Built with React, TypeScript, Axios, and Chakra UI.
-
-👉 [View repository](https://github.com/johaPARR/AutoFlow)
-
----
-
-**🔹 Backend II: Events Platform API (DevOps)**
-
-REST API for event management and ticket registration. Layered architecture (routes, controllers, services, repositories, DAOs, DTOs), JWT authentication with Passport.js, role-based authorization (user / organizer / admin), seat control and email notifications with Nodemailer. Tested with Jest and Supertest.
+REST API for event management and ticket registration. Implements layered architecture (routes, controllers, services, repositories, DAOs, and DTOs), JWT authentication with Passport.js, role-based authorization (user / organizer / admin), seat control, and email notifications with Nodemailer. Tested with Jest and Supertest.
 
 👉 [View repository](https://github.com/johaPARR/PreEntrega-1-Backend2)
 
----
+### 🔹 Smart Inquiry Triage API *(in progress)*
 
-**🔹 Backend I: Araperful E-commerce API**
+Node.js backend that receives structured data through webhooks, classifies and extracts information using AI, stores results in MongoDB, and triggers workflows with n8n. Runs with Docker.
+
+👉 [View repository](https://github.com/johaPARR/smart-inquiry-triage)
+
+### 🔹 Backend I – Araperful E-commerce API
 
 Perfume e-commerce backend built with Node.js, Express, and MongoDB. Includes real-time features with Socket.io, Handlebars views, Docker, and GitHub Actions CI.
 
@@ -63,23 +51,29 @@ Perfume e-commerce backend built with Node.js, Express, and MongoDB. Includes re
 
 ---
 
-**🔹 React E-commerce: Shopping Cart**
+## 📚 Additional Projects – Full Stack Learning
 
-React-based e-commerce SPA featuring product browsing, product details, shopping cart management, and checkout. Uses Context API for global state management, React Router for navigation, and Firebase/Firestore for cloud data persistence.
+The following projects are included as part of my broader Full Stack learning journey and demonstrate experience with frontend technologies. My current professional focus remains exclusively on Backend Development and DevOps.
+
+### 🔹 AutoFlow – Automotive Workflow Integration
+
+Application developed for ElectroCar to manage vehicle evidence and diagnostic reports. Includes license plate validation through an n8n webhook, role-based interfaces, image compression, and photo and PDF submissions. Built with React, TypeScript, Axios, and Chakra UI.
+
+👉 [View repository](https://github.com/johaPARR/AutoFlow)
+
+### 🔹 React E-commerce – Shopping Cart
+
+React-based e-commerce SPA featuring product browsing, product details, shopping cart management, and checkout. Uses Context API for global state management, React Router, and Firebase / Firestore for cloud data persistence.
 
 👉 [View repository](https://github.com/johaPARR/ProyectoFinalReact-Parrello)
 
----
-
-🔹 **JavaScript: Interactive E-commerce Simulator**
+### 🔹 JavaScript – Interactive E-commerce Simulator
 
 Interactive e-commerce simulator for Araperful, developed with JavaScript (ES6+). Loads products from a JSON file using Fetch API and supports cart management, quantity updates, dynamic total calculations, LocalStorage persistence, payment method selection, cash discounts, and a simulated checkout flow. Uses SweetAlert2, Toastify JS, and Luxon.
 
 👉 [View repository](https://github.com/johaPARR/ProyectoFinalParrello)
 
----
-
-**🔹 Araperful: Web Development Project**
+### 🔹 Araperful – Web Development Project
 
 Multi-page website developed for Araperful, a perfume brand. Includes portfolio, services, customers, and contact sections, with responsive navigation, animations, and a customized visual design. Built with HTML, CSS, JavaScript, and Bootstrap.
 
@@ -87,46 +81,28 @@ Multi-page website developed for Araperful, a perfume brand. Includes portfolio,
 
 ---
 
-
-
-## 💼 What I can help with
-
-- Connecting systems through REST APIs and webhooks
-- Building automated workflows with n8n
-- Adding AI (OpenAI) to existing processes
-- Dockerizing and documenting backend projects
-
----
 ## 🧰 Skills & Tools
 
-❄️ **Backend Development**
-- JavaScript · Node.js · Express.js
-- REST APIs · Webhooks
-- MongoDB · PostgreSQL
+**Backend Development**
+- Python · FastAPI · JavaScript · Node.js · Express
+- REST APIs · Webhooks · JWT · Swagger / OpenAPI
 
-⛓️ **AI Integration**
-- OpenAI API · Claude API
-- AI Agents · RAG · LLM Integration
+**Databases**
+- PostgreSQL · MongoDB
+- SQLAlchemy · Mongoose · Alembic
 
-🛜 **Workflow Automation**
-- n8n · Make · Zapier
-
-🌐 **DevOps & Infrastructure**
+**DevOps & Infrastructure**
 - Docker · Docker Compose
-- Git · GitHub · GitHub Actions
+- Git · GitHub · GitHub Actions · CI/CD
 - Render · Prometheus · Grafana
 - Kubernetes · Terraform *(currently learning)*
 
-💹 **Testing & Development**
-- Jest · Postman
+**Testing & Quality**
+- Pytest · Jest · Supertest · Postman
 - API Testing · Debugging
 
+---
 
 ## 📬 Contact
 
-- **Upwork:** [Perfil Oficial Upwork](https://www.upwork.com/freelancers/~0112b1d064b29af41b)
-- **Fiverr:** [Perfil Oficial Fiverr](https://www.fiverr.com/johaparrello)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/johana-ayl%C3%A9n-parrello-85010a110/)
-  
-
-
+- **LinkedIn:** [Johana Parrello](https://www.linkedin.com/in/johana-ayl%C3%A9n-parrello-85010a110/)
